@@ -1,4 +1,4 @@
-# 📦 [Nombre del repositorio]
+# 📦 TURBINA DE GAS DIDACTICA
 
 > Breve descripción del proyecto o componente que vive en este repositorio.
 
